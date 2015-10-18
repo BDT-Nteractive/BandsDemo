@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Spawner.cs">
+    <Files>
+      <File FileName="../../../../Users/dasawyer/Documents/Ex_Files_Unity_5_2D_EssT/Exercise Files/ExerciseFiles/ch06/06_05/SuperZombieRunner/Assets/Scripts/TimeManager.cs" Line="1" Column="1" />
+      <File FileName="../../../../Users/dasawyer/Documents/Ex_Files_Unity_5_2D_EssT/Exercise Files/ExerciseFiles/ch06/06_05/SuperZombieRunner/Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NewGameManager.cs" Line="42" Column="53" />
+      <File FileName="Assets/Scripts/Spawner.cs" Line="19" Column="41" />
+      <File FileName="Assets/Scripts/Scroller.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyScroller.cs" Line="13" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
